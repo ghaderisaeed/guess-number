@@ -1,0 +1,2 @@
+# Guess The Number Game in Python – Mini Project
+This project implements a simple number-guessing game using the Python programming language and the Tkinter library. In this game, the system chooses a random number between 0 and 100, and the user must find the number with successive guesses and with the help of clues provided by the system.
